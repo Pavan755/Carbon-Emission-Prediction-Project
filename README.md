@@ -29,28 +29,28 @@ Features:
   ---
 ## 🛠️ Workflow Summary
 ### 1️⃣ Data Preprocessing
--Removed null values
+   -Removed null values
 
--Converted time columns to datetime format
+   -Converted time columns to datetime format
 
--Normalized or scaled numeric features
+   -Normalized or scaled numeric features
 
 ### 2️⃣ Data Visualization
--Plotted trends in emissions over years
+   -Plotted trends in emissions over years
 
--Used Seaborn/Matplotlib for correlation heatmaps and line charts
+   -Used Seaborn/Matplotlib for correlation heatmaps and line charts
 
 ### 3️⃣ Model Building
--Trained a machine learning model (likely Linear Regression or ARIMA)
+   -Trained a machine learning model (likely Linear Regression or ARIMA)
 
--Tuned hyperparameters and evaluated performance
+   -Tuned hyperparameters and evaluated performance
 
--Achieved low error using RMSE/MAE
+   -Achieved low error using RMSE/MAE
 
 ### 4️⃣ Model Saving
-Saved trained model to Forecasting_model.pkl using pickle
+  Saved trained model to Forecasting_model.pkl using pickle
 
-Ready for use in deployment/inference scenarios
+  Ready for use in deployment/inference scenarios
 
 ## 📈 Results
 -Visual comparison of actual vs. predicted CO₂ emissions
@@ -224,17 +224,6 @@ GitHub: @Pavan755
 
 ---
 
-### 🔗 Further Reading
 
-* [scikit‑learn regression](https://scikit-learn.org/stable/modules/linear_model.html)
-* [Prophet time-series tutorial](https://facebook.github.io/prophet/)
-* [Gradient Boosting explanation](https://en.wikipedia.org/wiki/Gradient_boosting)
 
----
 
-With this README, users can confidently install, run, explore, and contribute to the project—backed by real-world references and interactive elements.
-
-[1]: https://www.linkedin.com/posts/m-umair-nazir-6887a4102_github-drumairnazir-emission-prediction-activity-7239817245323878401-thbg?utm_source=chatgpt.com "My Carbon Emission Prediction Project | M Umair Nazir posted on ..."
-[2]: https://github.com/Vatshayan/Co2-Emission-Prediction-Using-Machine-Learning?utm_source=chatgpt.com "Co2-Emission-Prediction-Using-Machine-Learning - GitHub"
-[3]: https://github.com/rajveersinghcse/CO2-Emission-Prediction?utm_source=chatgpt.com "rajveersinghcse/CO2-Emission-Prediction - GitHub"
-[4]: https://github.com/alairdata/CO2-Emissions-Prediction-Model?utm_source=chatgpt.com "alairdata/CO2-Emissions-Prediction-Model - GitHub"
