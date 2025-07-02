@@ -216,7 +216,9 @@ Distributed under the **MIT License**. See [LICENSE](LICENSE) for details.
 
 ## 👩‍💻 Author
 Pavan Kumar B
+
 Edunet Shell Internship Participant | AI-Driven Environmental Solutions Enthusiast
+
 GitHub: @Pavan755
 
 
